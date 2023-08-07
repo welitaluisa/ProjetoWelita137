@@ -79,6 +79,6 @@ public class BKCamisasTest {
       //      lista.findElement(By.xpath("//option[@value='M']")).click();
 
      //   } // Fim da seleção dentro da lista
-
+    //
    }
 }
